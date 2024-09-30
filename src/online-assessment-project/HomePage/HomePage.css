@@ -1,0 +1,107 @@
+.mcqcontainer {
+    background-image: url("https://media.istockphoto.com/id/1248542684/vector/abstract-blurred-colorful-background.jpg?s=612x612&w=0&k=20&c=6aJX8oyUBsSBZFQUCJDP7KZ1y4vrf-wEH_SJsuq7B5I=");
+    height: 100px;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+  }
+  
+  .mcqlogo {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .mcqbutton {
+    padding: 10px;
+    width: 80px;
+    background-color: rgb(13, 98, 196);
+    border-radius: 5px;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    margin-right: 30px;
+  }
+  
+  .mcqimage {
+    width: 400px;
+    height: 400px;
+    margin-left:150px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+  }
+
+  .popupcontainer {
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 100px;
+  }
+  
+  .mcqcontainer1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  
+  .mcqbutton1 {
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-width: 0px;
+    text-align: center;
+    box-shadow: 0px 4px 16px 0px;
+    margin-top: 10px;
+  }
+  
+  .mcqcontainer2 {
+    background-image: url("https://media.istockphoto.com/id/1248542684/vector/abstract-blurred-colorful-background.jpg?s=612x612&w=0&k=20&c=6aJX8oyUBsSBZFQUCJDP7KZ1y4vrf-wEH_SJsuq7B5I=");
+    height: 80px;
+    width: 100vw;
+    background-size: cover;
+  }
+  
+  .signupbutton {
+    width: 100px;
+    font-size: 12px;
+    margin: 5px;
+    box-shadow: 0px 4px 8px 0px;
+    background-color: rgb(13, 98, 196);
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+  }
+  
+  .popupflexing {
+    display: flex;
+  }
+  
+  .headingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 100px;
+  }
+  
+  .quizHeading {
+    font-size: 50px;
+    color: #e04721;
+    margin-bottom: 10px;
+  }
+  .para{
+    color:rgb(51, 20, 226)
+  }
+
+ .demo-para{
+  font-weight: 300;
+  color:black
+ }
+ 
